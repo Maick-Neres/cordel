@@ -15,7 +15,7 @@
 }
 
 html,body{
-    min-height: 100hv;
+    min-height: 100vh;
     background-color:rgba(169, 169, 169, 0.537);
     font-family: var(--font1);
 }
@@ -39,7 +39,8 @@ header > p{
 
 header a, footer a{
    
-  color: white;  text-decoration: none;
+  color: white; 
+   text-decoration: none;
   font-weight:bolder ;
 
 }
